@@ -1,0 +1,26 @@
+@charset "utf-8";
+h{
+    text-align: center;
+}
+body
+{
+    text-align:center;
+    background-color:#210000;
+    color:whitesmoke
+}
+p
+{ 
+    text-align: center;
+    text-align:justify;
+     text-indent:50px;
+     font-weight:400;
+}
+/*formataçao da 1 imagem*/ 
+    
+
+figure.primeirafoto img{  border: 1px solid salmon;
+    box-shadow: 1px 1px 11px rgba(145, 145, 181, 0.729);
+     max-width: 250px;
+    width: 100%;
+height: 100%;
+}
